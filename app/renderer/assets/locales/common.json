@@ -1,0 +1,20 @@
+{
+  "application_name": "Sqrl",
+  "application_version": "v1.0.0",
+  "back": "رجوع",
+  "block_height": "ارتفاع الكتلة",
+  "cancel": "إلغاء",
+  "close": "إغلاق",
+  "confirm": "تأكيد",
+  "continue_setup": "متابعة إعداد الحساب",
+  "copy_to_clipboard": "نسخ إلى الحافظة",
+  "error": "خطأ",
+  "loading": "تم التحميل",
+  "next": "التالي",
+  "property": "خاصية",
+  "remove": "إزالة",
+  "reset_application": "تصحيح: إعادة تعيين التطبيق",
+  "search": "بحث...",
+  "value": "القيمة",
+  "waiting": "انتظار..."
+}

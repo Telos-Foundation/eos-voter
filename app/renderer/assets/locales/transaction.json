@@ -1,0 +1,9 @@
+{
+  "broadcast_transaction_broadcast": "بث المعاملة",
+  "broadcast_transaction_confirm_details_content": "راجع تفاصيل هذه المعاملة، وإذا كانت التفاصيل صحيحة، انقر فوق الزر أدناه لتوقيع المعاملة وبثها.",
+  "broadcast_transaction_confirm_details_title": "مراجعة المعاملة",
+  "broadcast_transaction_no_details_content": "حدد ملف المعاملات الموقعة للبدء",
+  "broadcast_transaction_no_details_title": "لم يتم تحميل أي معاملة",
+  "broadcast_transaction_not_signed": "لا يمكن بث عملية غير موقعة.",
+  "broadcast_transaction_signbroadcast": "تسجيل + بث المعاملة"
+}

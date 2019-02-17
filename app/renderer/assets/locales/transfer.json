@@ -1,0 +1,22 @@
+{
+  "transfer_send_button_cta": "إرسال رموز",
+  "transfer_receive_button_cta": "استقبال رموز",
+  "transfer_modal_title": "تحويل رموز",
+  "transfer_modal_transaction_successful_title": "نجاح التحويل!",
+  "transfer_modal_transaction_successful_message": "تمت معالجة المعاملة المطلوبة. يمكن العثور على معرف المعاملة أدناه.",
+  "transfer_confirming_title": "مراجعة المعاملة الخاصة بك",
+  "transfer_confirming_body": "يرجى التأكد من صحة الوجهة والمبلغ والمذكرة لهذا النقل.",
+  "transfer_warning_irreversible_title": "المعاملات لايمكن الرجوع عنها",
+  "transfer_warning_irreversible_body": "بمجرد تقديم هذه المعاملة لا يمكن الرجوع عنها.",
+  "transfer_label_from": "الحساب الأصلي",
+  "transfer_label_to": "الحساب المحول له",
+  "transfer_label_quantity": "الكمية",
+  "transfer_label_token_and_quantity": "تحديد الرمز + الكمية",
+  "transfer_label_memo": "تحويل المذكرة",
+  "transfer_receive_modal_header": "استقبال الرموز",
+  "transfer_receive_body_text": "لستقبال الرموز، ببساطة قم  بإعطاء اسم الحساب التالي إلى المرسل.",
+  "transfer_close": "إغلاق",
+  "transfer_header_available": "المتاح للتحويل.",
+  "transfer_send_exchange_in_memo_one": "إذا كنت تحاول تبديل الرموز قم بوضع",
+  "transfer_send_exchange_in_memo_two": "اسم الحساب ووضع رمز المذكرة في حقل المذكرة."
+}
