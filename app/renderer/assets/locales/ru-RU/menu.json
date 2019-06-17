@@ -1,6 +1,6 @@
 {
-  "exchange": "Exchange",
-  "producer_voting": "Governance",
+  "exchange": "REX рынок",
+  "producer_voting": "Голосования",
   "wallet": "Кошелёк",
-  "tools": "Tools"
+  "tools": "Утилиты"
 }
