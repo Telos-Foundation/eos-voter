@@ -1,29 +1,29 @@
 {
-    "wapii_prompt_message_identity": "{{appName}} is requesting your permission to connect to Sqrl. If you did not initiate this request or do not trust this app, do not approve this request. If you would like to allow {{appName}} to connect to Sqrl on your behalf, select the permission you would like it to use (we do not recommend using 'owner') and select Approve.",
-    "wapii_prompt_header_identity": "Allow app to link ?",
-    "wapii_prompt_header_sign": "Approve sign request ?",
-    "wapii_prompt_header_arbitrary_signature": "Approve arbitrary signature ?",
-    "wapii_prompt_header_unlock": "Approve access ?",
-    "wapii_prompt_message_unlock": "Enter the local wallet password to unlock.",
-    "wapii_prompt_header_pair": "App request to link",
-    "wapii_prompt_ok_unlock": "Allow",
-    "wapii_prompt_ok": "Approve",
-    "wapii_sign_description":["The app ", " requests to sign a transaction which will: "],
-    "wapii_sign_breakdown_header":"Transaction breakdown: ",
+    "wapii_prompt_message_identity": "{{appName}} запрашивает права на подключение к Sqrl. Если не вы стали причиной данного запроса или не знаете что это за приложение, то отклоните запрос. Если вы хотите разрешить {{appName}} подключиться к Sqrl от вашего имени, выберите Разрешения которые вы бы хотели предоставить (мы не рекомендуем использовать 'Owner') и нажмите Подтвердить.",
+    "wapii_prompt_header_identity": "Разрешить приложению подключиться?",
+    "wapii_prompt_header_sign": "Утвердить запрос на подпись?",
+    "wapii_prompt_header_arbitrary_signature": "Разрешить произвольную подпись?",
+    "wapii_prompt_header_unlock": "Разрешить доступ?",
+    "wapii_prompt_message_unlock": "Введите пароль Кошелька для разблокировки.",
+    "wapii_prompt_header_pair": "Запрос приложения",
+    "wapii_prompt_ok_unlock": "Разрешить",
+    "wapii_prompt_ok": "Утвердить",
+    "wapii_sign_description":["Приложение ", " запросило на подпись Транзакцию: "],
+    "wapii_sign_breakdown_header":"Содержимое Транзакции: ",
 
     "wapii_sign_summary":{
         "eosio":{
-            "newaccount":       "create a new account",
-            "buyrambytes":      "buy RAM",
-            "buyram":           "buy RAM",
-            "sellram":          "sell RAM",
-            "delegatebw":       "stake tokens",
-            "undelegatebw":     "unstake tokens",
-            "regproducer":      "register producer",
-            "unregprod":        "unregister producer",
-            "voteproducer":     "vote for producers / set proxy",
+            "newaccount":       "создать новый аккаунт",
+            "buyrambytes":      "купить RAM",
+            "buyram":           "купить RAM",
+            "sellram":          "продать RAM",
+            "delegatebw":       "застейкать",
+            "undelegatebw":     "анстейкнуть",
+            "regproducer":      "зарегистрировать БП",
+            "unregprod":        "снять регистрацию БП",
+            "voteproducer":     "голосовать за БП / настроить Proxy",
             "token":{
-                "transfer":     "transfer tokens"
+                "transfer":     "перевести токены"
             }
         }
     },
@@ -91,8 +91,8 @@
 
     "wapii_sign_chain":["On blockchain", "via endpoint", "with Chain ID", ""],
     "wapii_sign_reqid":"*Request identifier:",
-    "wapii_json_details":"Details :",
+    "wapii_json_details":"Подробности :",
 
-    "cancel": "Cancel",
-    "cancel_all":"Cancell all"
+    "cancel": "Отменить",
+    "cancel_all":"Отменить Все"
 }
