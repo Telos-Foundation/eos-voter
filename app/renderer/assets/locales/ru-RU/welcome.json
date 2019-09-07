@@ -9,10 +9,10 @@
   "welcome_account_select_title": "Выбор Аккаунта",
   "welcome_cancel_coldwallet": "Отменить Холодный Кошелек",
   "welcome_compare_key": "Сравнить Ключи",
-  "welcome_connect_server": "Подключиться к ноде",
+  "welcome_connect_server": "Подключиться",
   "welcome_created_by": "Создано",
   "welcome_enter_account": "Подтвердить Аккаунт",
-  "welcome_instructions_1": "Вначале приложение нужно подключить к API ноде",
+  "welcome_instructions_1": "Сначала вам нужно подключиться к API ноде",
   "welcome_instructions_2": "Введите адрес API ноды, к которой вы хотите подключиться.",
   "welcome_instructions_3": "Введите Публичный Ключ или название Аккаунта.",
   "welcome_instructions_3_cold": "Введите название Аккаунта.",
@@ -62,6 +62,6 @@
   "welcome_stage_connection": "Подключение",
   "welcome_stage_wallet": "Кошелёк",
   "welcome_stage_watchwallet": "Сторожевой Кошелек",
-  "welcome_use_coldwallet": "Создать Холодный Кошелек",
+  "welcome_use_coldwallet": "Создать Хол. Кошелек",
   "welcome_connect_network": "Подключиться к сети"
 }
