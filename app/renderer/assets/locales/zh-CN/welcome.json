@@ -33,7 +33,7 @@
   "welcome_key_compare_fail_match_title": "私钥不匹配",
   "welcome_key_compare_matches_content": "钥匙匹配",
   "welcome_key_compare_matches_title": "您输入的私钥与账户的公钥相匹配。",
-  "welcome_key_compare_placeholder": "以 “5” 开始，且有 51个字符长度",
+  "welcome_key_compare_placeholder": "以 “5” 开始，且有 51 个字符长度",
   "welcome_key_compare_title": "提示: 私钥",
   "welcome_key_compare_visible": "显示私钥",
   "welcome_key_sign_tx": "启用钱包为操作签名？",
