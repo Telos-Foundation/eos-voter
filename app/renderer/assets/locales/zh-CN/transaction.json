@@ -1,9 +1,9 @@
 {
-  "broadcast_transaction_broadcast": "Broadcast Transaction",
-  "broadcast_transaction_confirm_details_content": "Review the details of this transaction, and if the details look correct, click the button below to sign and broadcast the transaction.",
-  "broadcast_transaction_confirm_details_title": "Review Transaction",
-  "broadcast_transaction_no_details_content": "Selecte a signed transaction file to begin",
-  "broadcast_transaction_no_details_title": "No transaction loaded",
-  "broadcast_transaction_not_signed": "Cannot broadcast an unsigned transaction.",
-  "broadcast_transaction_signbroadcast": "Sign + Broadcast Transaction"
+  "broadcast_transaction_broadcast": "广播交易",
+  "broadcast_transaction_confirm_details_content": "审查此交易细节，如果细节是对的，请点下方按钮以签名并广播交易。",
+  "broadcast_transaction_confirm_details_title": "审查交易",
+  "broadcast_transaction_no_details_content": "请选择一个签名的交易",
+  "broadcast_transaction_no_details_title": "无交易读取",
+  "broadcast_transaction_not_signed": "不能广播无签名的交易。",
+  "broadcast_transaction_signbroadcast": "签名并广播交易"
 }
