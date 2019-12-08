@@ -1,6 +1,6 @@
 {
-  "exchange": "Exchange",
-  "producer_voting": "Governance",
+  "exchange": "交易",
+  "producer_voting": "治理",
   "wallet": "钱包",
-  "tools": "Tools"
+  "tools": "工具"
 }
