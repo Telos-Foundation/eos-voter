@@ -1,5 +1,5 @@
 {
-    "wapii_prompt_message_identity": "{{appName}} is requesting your permission to connect to Sqrl. If you did not initiate this request or do not trust this app, do not approve this request. If you would like to allow {{appName}} to connect to Sqrl on your behalf, select the permission you would like it to use (we do not recommend using 'owner') and select Approve.",
+    "wapii_prompt_message_identity": "{{appName}} 需要您的同意以连接到 Sqrl。如果您没有触发这个请求或不信任这个 APP，请不要批准。如果您同意让 {{appName}} 连接到 Sqrl，请选择它能用的许可（我们不建议是 'OWNER'），然后选择批准。",
     "wapii_prompt_header_identity": "同意 APP 连接？",
     "wapii_prompt_header_sign": "批准签名申请？",
     "wapii_prompt_header_arbitrary_signature": "批准任意签名？",
@@ -9,7 +9,7 @@
     "wapii_prompt_ok_unlock": "允许",
     "wapii_prompt_ok": "批准",
     "wapii_sign_description":["The app ", " requests to sign a transaction which will: "],
-    "wapii_sign_breakdown_header":"Transaction breakdown: ",
+    "wapii_sign_breakdown_header":"交易细节：",
 
     "wapii_sign_summary":{
         "eosio":{
@@ -91,8 +91,8 @@
 
     "wapii_sign_chain":["On blockchain", "via endpoint", "with Chain ID", ""],
     "wapii_sign_reqid":"*Request identifier:",
-    "wapii_json_details":"Details :",
+    "wapii_json_details":"细节：",
 
-    "cancel": "Cancel",
-    "cancel_all":"Cancell all"
+    "cancel": "取消",
+    "cancel_all":"全部取消"
 }
