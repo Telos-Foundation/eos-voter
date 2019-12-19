@@ -1,6 +1,6 @@
 {
-  "app_updating_header": "Updating",
-  "app_updating_subheader": "The app will prompt to restart when completed.",
-  "app_updating_percent_complete": "complete",
-  "app_updating_rate": "sec"
+  "app_updating_header": "更新中",
+  "app_updating_subheader": "当更新完成后，Sqrl 将会提示用户做重启。",
+  "app_updating_percent_complete": "完整",
+  "app_updating_rate": "秒"
 }
